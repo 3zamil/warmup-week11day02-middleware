@@ -1,0 +1,19 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "sei9",
+  "license": "ISC",
+  "dependencies": {
+    "console-error": "0.0.4",
+    "console-info": "0.0.5",
+    "console-warn": "0.0.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
